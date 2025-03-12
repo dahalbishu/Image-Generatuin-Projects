@@ -9,12 +9,12 @@ The project is organized as follows:
 root<br>
 |<br>
 |-- anime_images<br>
-|   |<br>
-|   |-- images<br>
-|   |   |<br>
-|   |   |-- 0_2000.jpg<br>
-|   |   |-- 1_2000.jpg<br>
-|   |   |-- ...<br>
+|----   |<br>
+|----   |-- images<br>
+|----   |----   |<br>
+|----   |----   |-- 0_2000.jpg<br>
+|----   |----   |-- 1_2000.jpg<br>
+|----   |----   |-- ...<br>
 |<br>
 |-- generated<br>
 |<br>
