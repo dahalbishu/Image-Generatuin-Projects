@@ -1,0 +1,4 @@
+anime_images/
+generated/
+Discriminator.ckpt
+Generator.ckpt
