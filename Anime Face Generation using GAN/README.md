@@ -6,21 +6,21 @@ This project focuses on generating anime faces using Generative Adversarial Netw
 
 The project is organized as follows:
 
-root
+root<br>
+|<br>
+|-- anime_images<br>
+|   |<br>
+|   |-- images<br>
+|   |   |<br>
+|   |   |-- 0_2000.jpg<br>
+|   |   |-- 1_2000.jpg<br>
+|   |   |-- ...<br>
+|<br>
+|-- generated<br>
 |
-|-- anime_images
-|   |
-|   |-- images
-|   |   |
-|   |   |-- 0_2000.jpg
-|   |   |-- 1_2000.jpg
-|   |   |-- ...
-|
-|-- generated
-|
-|-- main.ipynb
-|
-|-- README.md
+|-- main.ipynb<br>
+|<br>
+|-- README.md<br>
 
 
 
